@@ -11,7 +11,7 @@ Programming of Arduino 2A Motor Shield with NEMA17 Stepper Motor
 
 
 ## Software
-The [Arduino Stepper library](https://www.arduino.cc/reference/en/libraries/stepper/) is used. The program is based off its inbuilt examples **stepper_oneRevolution** and **stepper_oneStepAtATime**. 
+The [Arduino Stepper library](https://www.arduino.cc/reference/en/libraries/stepper/) is used. The programs are based off its inbuilt examples **stepper_oneRevolution** and **stepper_oneStepAtATime**. 
 
 1. One Step at a Time: motor moves one step at a time, used to test motor wiring
 2. Constant revolution: motor constantly revolves at selected speed in selected direction, used to test motor wiring
