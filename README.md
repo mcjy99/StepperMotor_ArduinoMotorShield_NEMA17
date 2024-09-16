@@ -1,4 +1,4 @@
-# StepperMotor_Arduino
+# StepperMotor_ArduinoMotorShield_NEMA17
 Programming of Arduino 2A Motor Shield with NEMA17 Stepper Motor
 
 ## Hardware Used 
