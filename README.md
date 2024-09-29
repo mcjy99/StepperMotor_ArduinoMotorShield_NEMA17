@@ -8,6 +8,14 @@ Programming of Arduino 2A Motor Shield with NEMA17 Stepper Motor
 
 
 ## Wiring Configuration
+![NEMA Stepper Motor Coil](./images/NEMA17-Stepper-Motor-coil.png)
+
+| Motor Shield    | NEMA 17 Motor   |
+|-----------------|-----------------|
+| Motor 1A        | green           | 
+| Motor 2A        | yellow          | 
+| Motor 1B        | red             | 
+| Motor 2B        | blue/purple     |
 
 
 ## Software
@@ -18,7 +26,7 @@ The [Arduino Stepper library](https://www.arduino.cc/reference/en/libraries/step
 3. One Revolution: motor moves one revolution clockwise, then one revolution counter clockwise, and repeats
 
 ## Application 
-[Reliability Test for Flexible Electronics]()
+[Reliability Test for Flexible Electronics](https://github.com/mcjy99/SimpleReliabilityTest)
 
 ## Note: 
 1. For the NEMA 17 Stepper Motor tested, the datasheet states that for one coil black is the coil end and yellow is the centre tap wire, but it was found that the opposite is true.
