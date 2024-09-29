@@ -8,7 +8,9 @@ Programming of Arduino 2A Motor Shield with NEMA17 Stepper Motor
 
 
 ## Wiring Configuration
-![NEMA Stepper Motor Coil](./images/NEMA17-Stepper-Motor-coil.png)
+The NEMA 17 stepper motor has two coils. The two ends of each coil are connected to one motor output on the shield. The centre tap wires (black and white) can be ignored.
+
+<img src="./images/NEMA17-Stepper-Motor-coil.png" alt="NEMA Stepper Motor Coil" width="300" />
 
 | Motor Shield    | NEMA 17 Motor   |
 |-----------------|-----------------|
